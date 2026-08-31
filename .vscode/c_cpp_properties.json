@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C/C++ Debug",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++11"
+        }
+    ],
+    "version": 4
+}

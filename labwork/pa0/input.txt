@@ -1,0 +1,7 @@
+5
+Pikachu Electric 12 85 55 40
+Charizard Fire 15 120 78 65
+Bulbasaur Grass 10 75 49 49
+Squirtle Water 11 80 48 65
+Gengar Ghost 14 95 70 50
+2

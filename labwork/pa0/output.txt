@@ -1,0 +1,57 @@
+=== MONSTER TEAM ===
+Monster 0:
+Name: Pikachu
+Type: Electric
+Level: 12
+Hp: 85
+Attack: 55
+Defense: 40
+
+Monster 1:
+Name: Charizard
+Type: Fire
+Level: 15
+Hp: 120
+Attack: 78
+Defense: 65
+
+Monster 2:
+Name: Bulbasaur
+Type: Grass
+Level: 10
+Hp: 75
+Attack: 49
+Defense: 49
+
+Monster 3:
+Name: Squirtle
+Type: Water
+Level: 11
+Hp: 80
+Attack: 48
+Defense: 65
+
+Monster 4:
+Name: Gengar
+Type: Ghost
+Level: 14
+Hp: 95
+Attack: 70
+Defense: 50
+
+=== TRAINING ===
+Training Monster 2...
+Name: Bulbasaur
+Type: Grass
+Level: 11
+Hp: 77
+Attack: 54
+Defense: 52
+
+=== STRONGEST MONSTER ===
+Name: Charizard
+Type: Fire
+Level: 15
+Hp: 120
+Attack: 78
+Defense: 65
