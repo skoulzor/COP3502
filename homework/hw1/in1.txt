@@ -1,0 +1,54 @@
+8
+Bulbasaur Grass 12
+Pikachu Electric 8
+Charmander Fire 6
+Vulpix Fire 10
+Ponyta Fire 10
+Psyduck Water 5
+Squirtle Water 10
+Snorlax Normal 30
+
+3
+
+Viridian
+4
+Bulbasaur
+Pikachu
+Charmander
+Squirtle
+
+Cinnabar
+5
+Bulbasaur
+Charmander
+Vulpix
+Ponyta
+Psyduck
+
+Cerulean
+5
+Pikachu
+Vulpix
+Psyduck
+Squirtle
+Snorlax
+
+3
+
+Ash
+5
+2
+Viridian
+Cerulean
+
+Misty
+4
+3
+Viridian
+Cinnabar
+Cerulean
+
+Brock
+10
+1
+Cerulean

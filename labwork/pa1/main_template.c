@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "leak_detector_c.h"
+//#include "leak_detector_c.h"
 
 #define NAMEMAX 51
 
@@ -133,7 +133,7 @@ void release_memroy(student ** st, int C, int N, int M)
 
 int main()
 {
-     atexit(report_mem_leak); //for memory leak detector.
+     //atexit(report_mem_leak); for memory leak detector.
      student **courseList;
      int C, N, M;
     
