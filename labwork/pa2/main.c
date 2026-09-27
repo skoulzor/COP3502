@@ -1,4 +1,4 @@
-/* Your Name
+/* Hailey Simpson
 This code implements some basic operations of singly linked list like inserting in the beginning and end, delete operation, and display operation
 */
 
@@ -47,19 +47,28 @@ node* reverse(node* head)
 {
 	// no need to reverse if head is null
 	// or there is only 1 node.
+	if (head == NULL || head->next == NULL) return head;
 	
 	// a. Lets say the list passed to the function is called main_list. Initialize this list. Think carefully about the assignment.
-	
+	node* main_list = head->next;
 
 	// b1. Use another node pointer called reversed_list and assign it to point to the head parameter
 	// b2. Assign next to NULL since head is now the tail of the reversed-List 
-	
+	node* reversed_list = head;
+	reversed_list->next = NULL;
 
 	// c1. Traverse the main_list 
 	// c2. For each node in the main_list, make it point to reverse_list's head using a  
-	
+	while (main_list != NULL) {
+		node* temp = main_list;
+		main_list = main_list->next;
+
+		temp->next = reversed_list;
+		reversed_list = temp;
+	}
 
 	// Return the new list
+	return reversed_list;
 }
 
 /* 	Write a function that takes in a pointer to
@@ -72,12 +81,25 @@ void insertToPlace(node* list, int val, int place) {
 	// Handle case where list is empty or place is not valid (i.e., place is not greater than 1 according to description)
 	
 	// a. Before insertation create a temp (newNode) and fill-up the data with the val parameter.
+	node* newNode = (node*) malloc(sizeof(node));
+	newNode->data = val;
+	newNode->next = NULL;
 
 	// b. User a counter variable and traverse the list until you reach to the end or you reach up to the place
 	// Iterate to the spot BEFORE place, 
 	// the NULL check ensures we dont go off the list if place is too high.
+	int count = 1;
+	node* current = list; 
+
+	while (current->next != NULL && count < place -1)
+	{
+		current = current->next;
+		count++;
+	}
 
 	// c. As soon as you stop traversing, add the temp (newNode) node
+	newNode->next = current->next;
+	current->next = newNode;
 
 	// d. Implementation done. In the main function, display the list after reversing it by calling the display function.
 }
