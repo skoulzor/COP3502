@@ -1,0 +1,17 @@
+7
+Charmander Fire 
+Squirtle Water 
+Bulbasaur Grass 
+Pikachu Electric 
+Vulpix Fire
+Psyduck Water
+Gengar Ghost
+8 
+FIRST_ELEMENT Fire 
+LAST_ELEMENT Water 
+ELEMENT_BEFORE_ALL Fire Water 
+IMMEDIATELY_BEFORE 0 2
+IMMEDIATELY_BEFORE 4 3 
+IMMEDIATELY_BEFORE 1 5
+POSITION 6 5
+BEFORE 2 4

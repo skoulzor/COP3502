@@ -1,0 +1,7 @@
+Charmander Fire
+Bulbasaur Grass
+Vulpix Fire
+Pikachu Electric
+Gengar Ghost
+Squirtle Water
+Psyduck Water

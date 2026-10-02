@@ -1,0 +1,12 @@
+cde Water
+abc Water
+Lapras Water
+Mewtwo Psychic
+Eevee Normal
+Gengar Ghost
+Psyduck Water
+Vulpix Fire
+Bulbasaur Grass
+Squirtle Water
+Charizard Fire
+Pikachu Electric
