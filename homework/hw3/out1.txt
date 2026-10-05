@@ -1,0 +1,21 @@
+[EVENT] Deposited to Will's PC: Charizard (Fire, Lv: 85, HP: 120)
+[EVENT] Deposited to Will's PC: Pikachu (Electric, Lv: 45, HP: 0)
+[EVENT] Deposited to Will's PC: Gengar (Ghost, Lv: 62, HP: 80)
+[EVENT] Deposited to Will's PC: Dragonite (Dragon, Lv: 88, HP: 150)
+[EVENT] Withdrew 3 monster(s) from Will's PC to Active Roster.
+--- WILL'S PC STATUS ---
+Storage Box Queue (1): Dragonite [Lv: 88]
+Active Roster (3): Charizard [Lv: 85] -> Gengar [Lv: 62] -> Pikachu [Lv: 45]
+------------------------
+[EVENT] Released 1 fainted monster(s) with HP below 1.
+[EVENT] Returned Charizard from Active Roster back to Will's PC.
+--- WILL'S PC STATUS ---
+Storage Box Queue (2): Dragonite [Lv: 88] -> Charizard [Lv: 85]
+Active Roster (1): Gengar [Lv: 62]
+------------------------
+[EVENT] Withdrew 2 monster(s) from Will's PC to Active Roster.
+--- WILL'S PC STATUS ---
+Storage Box Queue (0): EMPTY
+Active Roster (3): Dragonite [Lv: 88] -> Charizard [Lv: 85] -> Gengar [Lv: 62]
+------------------------
+[EVENT] Logged off Will's PC.
