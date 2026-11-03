@@ -1,0 +1,7 @@
+6
+Pikachu Electric 80 95 70
+Charizard Fire 95 75 85
+Squirtle Water 70 60 95
+Bulbasaur Grass 75 65 90
+Gengar Ghost 90 85 70
+Eevee Normal 65 80 75
