@@ -1,0 +1,19 @@
+INSERTED
+INSERTED
+INSERTED
+INSERTED
+Volt
+FOUND Water 75
+4
+Aqua Water 75
+Ember Fire 80
+Moss Grass 60
+Volt Electric 90
+DELETED
+Aqua Water 75
+Moss Grass 60
+Volt Electric 90
+Volt
+NOT FOUND
+NOT FOUND
+1

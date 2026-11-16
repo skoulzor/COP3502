@@ -1,0 +1,15 @@
+14
+1 Ember Fire 80
+1 Moss Grass 60
+1 Aqua Water 75
+1 Volt Electric 90
+4 Moss
+3 Aqua
+5 Aqua Volt
+6
+2 Ember
+6
+4 Moss
+2 Ghost
+3 Ember
+5 A M
