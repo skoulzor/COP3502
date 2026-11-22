@@ -1,0 +1,10 @@
+9
+1 Pikachu Electric 85
+1 Charizard Fire 95
+1 Squirtle Water 70
+3 Pikachu
+4 2
+1 Pikachu Electric 99
+6
+2 Charizard
+6

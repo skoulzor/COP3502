@@ -1,0 +1,12 @@
+INSERTED
+INSERTED
+INSERTED
+FOUND Electric 85
+Bucket 2: Squirtle (Water, 70)
+UPDATED
+Bucket 0: Charizard (Fire, 95)
+Bucket 2: Squirtle (Water, 70)
+Bucket 4: Pikachu (Electric, 99)
+DELETED
+Bucket 2: Squirtle (Water, 70)
+Bucket 4: Pikachu (Electric, 99)
